@@ -1,7 +1,14 @@
+body {
+background-color: darkslategray;
+}
 .row {
   border: 1px solid black;
 }
 
 .col {
   border: 1px dotted black;
+}
+
+.border{
+  
 }
